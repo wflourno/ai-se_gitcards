@@ -2,7 +2,7 @@
 
 My first project in TripleTen's AI-Assisted Software
 Engineering program. It includes decks of flashcards,
-each of which can be viewed in a carousel. 
+each of which can be viewed in a carousel.
 
 ## Features
 
@@ -12,10 +12,10 @@ Highly interactive buttons for flipping flashcards for studying and reviewing co
 
 ## Technology used
 
-- HTML5 
+- HTML5
 - CSS3
 - JavaScript
-- Git & GitHub Version Control 
+- Git & GitHub Version Control
 - Command Line Interface: Windows only
 - VS Code IDE
 
@@ -28,9 +28,9 @@ Highly interactive buttons for flipping flashcards for studying and reviewing co
 
 ## Deployed Website
 
-Check out [this site](https://wflourno.github.io/ai-se_project_flashcards) on GitHub Pages
+Check out [this site](https://wflourno.github.io/ai-se_gitcards) on GitHub Pages
 
 ## Project Pitch Video
- 
- Check out [this video](https://www.loom.com/share/f72491d4d5e54a1bb72b5ce99c473a69), where I describe my 
- project and some challenges I faced while building it.
+
+Check out [this video](https://www.loom.com/share/f72491d4d5e54a1bb72b5ce99c473a69), where I describe my
+project and some challenges I faced while building it.
