@@ -1,0 +1,25 @@
+const images = [
+  { src: "./assets/images/1075282631601021087.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/3682049278073640839.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/4091221405003444327.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/4838368117776440846.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/5070877686377191818.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/5566785206762883632.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/6111361776340402184.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/6314088657863193782.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/6981196824782438603.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/7681151886954881694.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/7976944111473738868.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000000(2).jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000000(3).jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000001.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000001.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000002.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000004.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000005.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000006.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000007.jpg", alt: "Gallery image #5" },
+  { src: "./assets/images/image000008.jpg", alt: "Gallery image #5" },
+];
+
+export { images };
